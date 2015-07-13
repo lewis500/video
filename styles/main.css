@@ -1,0 +1,11 @@
+@import "../node_modules/angular-material/angular-material.css";
+.road {
+  stroke: #424242;
+  fill: none;
+}
+.car {
+  stroke: none;
+  fill: #4fc3f7;
+  rx: 5;
+  ry: 5;
+}
